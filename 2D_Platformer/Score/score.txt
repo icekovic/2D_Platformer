@@ -1,0 +1,15 @@
+SCORE
+--------------------------------
+Coins collected: 9
+Lives left: 1
+Number of blue jewels: 1
+Number of green jewels: 1
+Number of red jewels: 1
+--------------------------------
+Coin points (amount * value): 90
+Blue jewels points: 50
+Green jewels points: 100
+Red jewels points: 150
+--------------------------------
+Total score: 390
+=================================

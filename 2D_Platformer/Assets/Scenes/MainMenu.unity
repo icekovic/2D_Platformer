@@ -1184,7 +1184,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb17585f4a7afed48b512a1fd6bc84dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  backgroundMusic: {fileID: 8300000, guid: b0485a19381c92f45af949697ed12a8f, type: 3}
   livesCounter: 3
   coinsCounter: 0
   blueJewelCounter: 0
